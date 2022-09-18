@@ -1,4 +1,4 @@
-# Monte Carlo Simulation – Estimate the Value of π
+# Monte Carlo Simulation – Estimate Value of π
 
 <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/morkev/monte-carlo-pi"> ![](https://img.shields.io/appveyor/build/gruntjs/grunt) <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/morkev/monte-carlo-pi">
 
